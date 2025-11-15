@@ -1,0 +1,38 @@
+body{
+    background-image: url(pen.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 600px;
+ }
+ form{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 100px;
+    padding-left: 20px;
+    
+ }
+ label{
+    font-size: 22px;
+    color: brown;
+    font-weight: bold;
+ }
+ input{
+    height: 35px;
+    width: 300px;
+    border-radius: 20px;
+ }
+ textarea{
+    height: 100px;
+    width: 300px;
+ }
+ button{
+    height: 50px;
+    width: 150px;
+    background-color: brown;
+    color: beige;
+    font-size: 22px;
+    border-radius: 20px;
+ }
+ h1{
+    text-align: center;
+    font-size: 40px;
+ }
